@@ -6,6 +6,7 @@ export default function Home() {
     <div>
       <h2>Ghazan</h2>
       <Button>Subzwari</Button>
+      <Button>Awais</Button>
     </div>
   );
 }
